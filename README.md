@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for Fuel UX
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://exacttarget.github.io/fuelux/
